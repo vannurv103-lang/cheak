@@ -33,7 +33,7 @@ public class RunnerClass implements CommandLineRunner {
 				+ "\n8.Delate Employee byID"
 				+ "\n9.Delete Empoyee byObject"
 				+ "\n10.Delete Multiple Employees"
-				+ "\n11.Delete All employees"
+				+ "\n12.Delete All employees"
 				+ "\n12.exit");
 		int choice = sc.nextInt();
 		switch (choice) {
